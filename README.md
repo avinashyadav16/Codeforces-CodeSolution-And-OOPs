@@ -36,7 +36,7 @@ Visit the site to know more:⬇️⬇️⬇️<br><br>
 <br>
 
 ## 🌐 Let's Connect
-Connect with me on [LinkedIn](www.linkedin.com/in/avinash-yadav-16hgnisgar) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-yadav-16hgnisgar/) 
 
 #### Happy Coding! 👨‍💻  &emsp;&emsp;   Happy Learning! 🚀
 

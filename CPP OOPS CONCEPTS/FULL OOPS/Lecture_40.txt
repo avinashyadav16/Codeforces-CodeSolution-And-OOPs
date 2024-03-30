@@ -1,0 +1,2 @@
+This is open() method example.
+Second method of writing in the file.

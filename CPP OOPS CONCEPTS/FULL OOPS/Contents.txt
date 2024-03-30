@@ -1,0 +1,58 @@
+                        +--------------+----------------------------------------------------------------------+
+                        |              |                  C   O   N   T   E   N   T   S                       |
+                        +--------------+----------------------------------------------------------------------+
+                        |  Lecture_01  |   Object Oriented Programming in C++                                 |
+                        |  Lecture_02  |   Nesting of Member Functions in C++                                 |
+                        |  Lecture_03  |   CPP Object Memory Allocation & using Arrays in Classes             |
+                        |  Lecture_04  |   Static Data Members and Static Member Methods in C++               |
+                        |  Lecture_05  |   Array of Objects in CPP                                            |
+                        |  Lecture_06  |   Friend Functions in C++                                            |
+                        |  Lecture_07  |   Member Friend Functions in C++                                     |
+                        |  Lecture_08  |   More on C++ Friend Functions (Examples & Explanation)              |
+                        |  Lecture_09  |   Constructors In C++                                                |
+                        |  Lecture_10  |   Parameterized and Default Constructors In C++                      |
+                        |  Lecture_11  |   Constructor Overloading In C++                                     |
+                        |  Lecture_12  |   Constructors With Default Arguments In C++                         |
+                        |  Lecture_13  |   Dynamic Initialization of Objects Using Constructors               |
+                        |  Lecture_14  |   Copy Constructor in C++                                            |
+                        |  Lecture_15  |   Destructor in C++                                                  |
+                        |  Lecture_16  |   Inheritance & Its Different Types with Examples in C++             |
+                        |  Lecture_17  |   Inheritance Syntax & Visibility Mode in C++                        |
+                        |  Lecture_18  |   Single Inheritance Deep Dive: Examples + Code                      |
+                        |  Lecture_19  |   Protected Access Modifier in C++                                   |
+                        |  Lecture_20  |   Multilevel Inheritance Deep Dive with Code Example in C++          |
+                        |  Lecture_21  |   Multiple Inheritance Deep Dive with Code Example in C++            |
+                        |  Lecture_22  |   Exercise on C++ Inheritance                                        |
+                        |  Lecture_23  |   Ambiguity Resolution in Inheritance in C++                         |
+                        |  Lecture_24  |   Virtual Base Class in C++                                          |
+                        |  Lecture_25  |   Code Example Demonstrating Virtual Base Class in C++               |
+                        |  Lecture_26  |   Constructors in Derived Class in C++                               |
+                        |  Lecture_27  |   Solution to Exercise on Cpp Inheritance                            |
+                        |  Lecture_28  |   Code Example: Constructors in Derived Class in Cpp                 |
+                        |  Lecture_29  |   Initialization list in Constructors in Cpp                         |
+                        |  Lecture_30  |   Revisiting Pointers: new and delete Keywords in CPP                |
+                        |  Lecture_31  |   Pointers to Objects and Arrow Operator in CPP                      |
+                        |  Lecture_32  |   Array of Objects Using Pointers in C++                             |
+                        |  Lecture_33  |   this Pointer in C++                                                |
+                        |  Lecture_34  |   Polymorphism in C++                                                |
+                        |  Lecture_35  |   Pointers to Derived Classes in C++                                 |
+                        |  Lecture_36  |   Virtual Functions in C++                                           |
+                        |  Lecture_37  |   Virtual Functions Example and Creation Rules in C++                |
+                        |  Lecture_38  |   Abstract Base Class & Pure Virtual Functions in C++                |
+                        |  Lecture_39  |   File I/O in C++: Working with Files                                |
+                        |  Lecture_40  |   File I/O in C++: Reading and Writing Files                         |
+                        |  Lecture_41  |   File I/O in C++: Read/Write in the Same Program & Closing Files    |
+                        |  Lecture_42  |   File I/O in C++: open() and eof() functions                        |
+                        |  Lecture_43  |   C++ Templates: Must for Competitive Programming                    |
+                        |  Lecture_44  |   Writing our First C++ Template in VS Code                          |
+                        |  Lecture_45  |   C++ Templates: Templates with Multiple Parameters                  |
+                        |  Lecture_46  |   C++ Templates: Class Templates with Default Parameters             |
+                        |  Lecture_47  |   C++ Function Templates & Function Templates with Parameters        |
+                        |  Lecture_48  |   Member Function Templates & Overloading Template Functions in C++  |
+                        |  Lecture_49  |   The C++ Standard Template Library (STL)                            |
+                        |  Lecture_50  |   Containers in C++ STL                                              |
+                        |  Lecture_51  |   Vector In C++ STL                                                  |
+                        |  Lecture_52  |   List In C++ STL                                                    |
+                        |  Lecture_53  |   Map In C++ STL                                                     |
+                        |  Lecture_54  |   Function Objects (Functors) In C++ STL                             |
+                        +--------------+----------------------------------------------------------------------+ 

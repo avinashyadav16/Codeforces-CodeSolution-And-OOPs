@@ -2,6 +2,7 @@
 
 [![Run Length Encoding](https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=Gray)](https://www.geeksforgeeks.org/problems/run-length-encoding/1) ![Easy](https://img.shields.io/badge/-Easy-blue?style=for-the-badge&logoColor=blue)
 
+
 <details>
 Author: Avinash Yadav<br>
 Date: 04-01-2024

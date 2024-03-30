@@ -2,6 +2,7 @@
 
 [![Minimize the Maximum of Two Arrays](https://img.shields.io/badge/-Leetcode-grey?style=for-the-badge&logo=Leetcode&logoColor=Gray)](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/) ![Medium](https://img.shields.io/badge/-Medium-green?style=for-the-badge&logoColor=green)
 
+
 <details>
 Author: Avinash Yadav<br>
 Date: 01-01-2024

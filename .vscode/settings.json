@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "concepts": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "span": "cpp"
+  }
+}

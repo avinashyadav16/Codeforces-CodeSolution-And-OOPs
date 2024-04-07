@@ -4,6 +4,7 @@
     "concepts": "cpp",
     "string_view": "cpp",
     "ranges": "cpp",
-    "span": "cpp"
+    "span": "cpp",
+    "chrono": "cpp"
   }
 }

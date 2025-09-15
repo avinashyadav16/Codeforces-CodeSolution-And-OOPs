@@ -29,7 +29,7 @@ using namespace std;
 
 int main()
 {
-    string str1 = "Lecture_40: File I/O in C++: Reading and Writing Files\n";
+    string str1 = "40_File_IO_in_C++\n";
     string str2;
 
     // Opening the file using Constructor:
